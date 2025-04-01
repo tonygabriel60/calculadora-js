@@ -20,3 +20,7 @@ Você pode acessar a calculadora através do seguinte link:
 ## Observação
 
 Este projeto foi desenvolvido para ser executado diretamente no navegador, sem necessidade de instalação ou configuração adicional.
+
+## Nota adicional
+
+A calculadora foi projetada para ser utilizada diretamente nas ferramentas de desenvolvedor (DevTools) do navegador. Para acessá-la, abra o console do DevTools e interaja com a aplicação.
